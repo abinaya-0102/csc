@@ -1,6 +1,6 @@
 .head1 {
 			font-size: 50px;
-			color: #000099;
+			color: #7743DB;
 			font-weight:  bold;}
 		.head2{
 			font-size:14px;
@@ -18,7 +18,7 @@
 	.menu{
 		position:sticky;
 		top:0; 
-		background-color: #000099;
+		background-color: #7743DB;
 		padding:10px 0px 10px 0px;
 		color:white;
 		margin:0 auto; 
